@@ -5,3 +5,7 @@ Readings of Peirce with brief comments on them.
 ** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=987][The Boolian Calculus]] (2 pages)
 Peirce on how Boolian algebra could be of use to both mathematicians and logicians.
 He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubert’s geometry]] as an example of making geometry tractable through boolean algebra.
+
+** The Simplest Mathematics (1902)
+
+[[https://hollisarchives.lib.harvard.edu/repositories/24/archival_objects/1797114][Typescript]]
