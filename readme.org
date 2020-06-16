@@ -14,3 +14,6 @@ He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubertâ
 
 ** [[https://www.jstor.org/stable/2369451][On the algebra of logic (1885)]]
 
+** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=21271][A Boolian Algebra with One Constant (1880)]]
+
+Peirce writes about reducing the number of signs used in Boolean algebra.
