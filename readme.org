@@ -16,4 +16,6 @@ He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubertâ
 
 ** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=21271][A Boolian Algebra with One Constant (1880)]]
 
-Peirce writes about reducing the number of signs used in Boolean algebra.
+Peirce writes about reducing the number of signs used in Boolean algebra and uses a notation in which there is only one constant present.
+An true assertion is denoted as P and it's negation as PP. Then elimination and development of this is performed on according to stipulated rules.
+Canâ€™t help but wonder if this is related to his Peirce Arrow (NOR operator) in some way.
