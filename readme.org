@@ -6,6 +6,11 @@ Readings of Peirce with brief comments on them.
 Peirce on how Boolian algebra could be of use to both mathematicians and logicians.
 He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubert’s geometry]] as an example of making geometry tractable through boolean algebra.
 
+
+** [[https://www.jstor.org/stable/pdf/25058006.pdf][Description of a Notation for the Logic of Relatives, Resulting from an Amplification of the Conceptions of Boole's Calculus of Logic]]
+
+[[./img/notational-lattice.png]]
+
 ** The Simplest Mathematics (1902)
 
 [[https://hollisarchives.lib.harvard.edu/repositories/24/archival_objects/1797114][Typescript]]
