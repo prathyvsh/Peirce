@@ -6,20 +6,36 @@ Readings of Peirce with brief comments on them.
 Peirce on how Boolian algebra could be of use to both mathematicians and logicians.
 He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubert’s geometry]] as an example of making geometry tractable through boolean algebra.
 
+** [[https://www.jstor.org/stable/pdf/20179567.pdf][On A New List of Categories (1867)]]
 
-** [[https://www.jstor.org/stable/pdf/25058006.pdf][Description of a Notation for the Logic of Relatives, Resulting from an Amplification of the Conceptions of Boole's Calculus of Logic]]
+** [[https://www.jstor.org/stable/pdf/20179565.pdf][On an Improvement in Boole's Calculus of Logic (1867)]]
+
+** [[https://www.jstor.org/stable/pdf/20179566.pdf][On the Natural Classification of Arguments (1867)]]
+
+** [[https://www.jstor.org/stable/pdf/20179570.pdf][Upon the Logic of Mathematics (1867)]]
+
+** [[https://www.jstor.org/stable/pdf/20179572.pdf][Upon Logical Comprehension and Extension (1867)]]
+
+** [[https://www.jstor.org/stable/pdf/25058006.pdf][Description of a Notation for the Logic of Relatives, Resulting from an Amplification of the Conceptions of Boole's Calculus of Logic (1870)]]
 
 [[./img/notational-lattice.png]]
+
+** [[https://www.jstor.org/stable/pdf/2369442.pdf][On the Algebra of Logic (1880)]]
+
+** [[https://www.jstor.org/stable/2369451][On the Algebra of Logic: A Contribution to the Philosophy of Notation (1885)]]
+
+
+** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=21271][A Boolian Algebra with One Constant (1880)]]
+
+** [[https://isidore.co/calibre/get/pdf/5815][Studies in Logic (1883)]]
+
+Book by Peirce and his students
+
+** [[https://www.jstor.org/stable/27897407][The Logic of Relatives (1897)]]
 
 ** The Simplest Mathematics (1902)
 
 [[https://hollisarchives.lib.harvard.edu/repositories/24/archival_objects/1797114][Typescript]]
-
-** [[https://www.jstor.org/stable/2369442][On the algebra of logic (1880)]]
-
-** [[https://www.jstor.org/stable/2369451][On the algebra of logic (1885)]]
-
-** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=21271][A Boolian Algebra with One Constant (1880)]]
 
 Peirce writes about reducing the number of signs used in Boolean algebra and uses a notation in which there is only one constant present.
 An true assertion is denoted as P and it's negation as PP. Then elimination and development of this is performed on according to stipulated rules.
