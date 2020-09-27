@@ -22,6 +22,8 @@ He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubertâ
 
 ** [[https://www.jstor.org/stable/pdf/2369442.pdf][On the Algebra of Logic (1880)]]
 
+** On the Logic of Number (1881)
+
 ** [[https://www.jstor.org/stable/2369451][On the Algebra of Logic: A Contribution to the Philosophy of Notation (1885)]]
 
 
@@ -29,7 +31,11 @@ He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubertâ
 
 ** [[https://isidore.co/calibre/get/pdf/5815][Studies in Logic (1883)]]
 
+** Note on The Logic of Relatives (1883)
+
 Book by Peirce and his students
+
+** On the Algebra of Logic: A Contribution to the Philosophy of Notation (1884/85)
 
 ** [[https://www.jstor.org/stable/27897407][The Logic of Relatives (1897)]]
 
