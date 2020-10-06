@@ -21,15 +21,21 @@ He cites the use of [[https://en.wikipedia.org/wiki/Schubert_calculus][Schubertâ
 [[./img/notational-lattice.png]]
 
 ** [[https://www.jstor.org/stable/pdf/2369442.pdf][On the Algebra of Logic (1880)]]
+Part I: Syllogistic
+Part II: The logic of non-relative terms
+Part III: The logic of relatives
 
-** On the Logic of Number (1881)
+** [[https://www.jstor.org/stable/pdf/2369151.pdf][On the Logic of Number (1881)]]
+
+** [[A Brief Description of the algebra of relatives (1882)]]
 
 ** [[https://www.jstor.org/stable/2369451][On the Algebra of Logic: A Contribution to the Philosophy of Notation (1885)]]
-
 
 ** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=21271][A Boolian Algebra with One Constant (1880)]]
 
 ** [[https://isidore.co/calibre/get/pdf/5815][Studies in Logic (1883)]]
+
+** [[https://academic.oup.com/monist/article-abstract/7/1/19/2272404][The regenerated logic (1896)]]
 
 ** Note on The Logic of Relatives (1883)
 
@@ -38,6 +44,21 @@ Book by Peirce and his students
 ** On the Algebra of Logic: A Contribution to the Philosophy of Notation (1884/85)
 
 ** [[https://www.jstor.org/stable/27897407][The Logic of Relatives (1897)]]
+
+** [[http://www.commens.org/bibliography/manuscript/peirce-charles-s-1895-c-logic-quantity-ms-r-17][The Logic of Quantity]]
+
+** [[http://www.commens.org/bibliography/manuscript/peirce-charles-s-1893-chapter-xiv-second-intentional-logic-ms-r-420][Second intentional logic (1893)]]
+
+** [[Symbolic logic]]
+Reprint of 2816
+
+** [[On existential graphs, Eulerâ€™s diagrams, and logical algebra]]
+
+** [[The gamma part of existential graphs]]
+
+** [[An improvement on the gamma graphs]]
+
+** [[Grounds of validity of the laws of logic: Further consequences of four incapacities]]
 
 ** The Simplest Mathematics (1902)
 
