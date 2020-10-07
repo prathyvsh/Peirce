@@ -1,5 +1,7 @@
 * Reading Peirce
 
+[[Portrait of Peirce][./img/peirce.png]]
+
 Readings of Peirce with brief comments on them.
 
 ** [[https://rs.cms.hu-berlin.de/peircearchive/pages/view.php?ref=987][The Boolian Calculus]] (2 pages)
