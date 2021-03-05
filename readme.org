@@ -69,3 +69,13 @@ Reprint of 2816
 Peirce writes about reducing the number of signs used in Boolean algebra and uses a notation in which there is only one constant present.
 An true assertion is denoted as P and it's negation as PP. Then elimination and development of this is performed on according to stipulated rules.
 Can’t help but wonder if this is related to his Peirce Arrow (NOR operator) in some way.
+
+* Some interesting work on Peirce
+
+** [[https://www.researchgate.net/publication/319405272_Simplex_sigillum_veri_Peano_Frege_and_Peirce_on_the_Primitives_of_Logic][Simplex Sigillum Veri: Peano, Frege, and Peirce on the Primitives of Logic]]
+
+** [[https://www.tandfonline.com/doi/abs/10.1080/01445348408837062][Peirce, Frege, the logic of relations, and Church’s Theorem]]
+
+** [[https://projecteuclid.org/journals/review-of-modern-logic/volume-3/issue-4/Peirce-and-Frege-a-question-unanswered/rml/1204835119.full][Peirce and Frege: A question unanswered]]
+
+** [[https://arisbe.sitehost.iu.edu/menu/library/aboutcsp/ANELLIS/csp&br.htm][Peirce rustled, Russel pierced]]
