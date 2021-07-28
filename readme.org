@@ -79,3 +79,6 @@ Can’t help but wonder if this is related to his Peirce Arrow (NOR operator) in
 ** [[https://projecteuclid.org/journals/review-of-modern-logic/volume-3/issue-4/Peirce-and-Frege-a-question-unanswered/rml/1204835119.full][Peirce and Frege: A question unanswered]]
 
 ** [[https://arisbe.sitehost.iu.edu/menu/library/aboutcsp/ANELLIS/csp&br.htm][Peirce rustled, Russel pierced]]
+
+** [[https://homepages.math.uic.edu/~kauffman/Peirce.pdf][The Mathematics of Charles Sanders Peirce]]
+Louis Kauffman (2001)
